@@ -37,7 +37,24 @@ In terms of above method, water / liquids has less space between atoms compare t
 
 > ↑ Volume of Water = ↓ Less Space = ↓ Less Compressible (Innvers Proportional, "Volume-Compressibilty") 
 
-# Pressure
+### Pressure
 In general, pressure is **"Force per Area"**, which is "F/A".
+
+### Force due to Acceleration
+> F = m * a, (where m is "mass" and a is "accelration") 
+
+The SI-units (**Internation System of Units**) for Force is **(Kg*m)/s^2**
+The Imperial-units (**American/English System of Units**) for Force is **Ibm-ft/s^2**
+
+(Pound  Force = "**Ibf**" ; Pound mass = "**Ibm**") 
+In "US Systems" **(1F/1Ibf) = 1 slug * 1 ft/s^2**, __(1 Slug = 32.2Ibm)__
+
+
+> Difference between Ibf and Ibm
+   [This Video Helps in understanding it!.](https://www.youtube.com/watch?v=8OehVaqq_eE&ab_channel=DrSoltysScreencasts) 
+   [Detail Video!.](https://youtu.be/H7W84W-EPPw)
+
+
+
 
 
